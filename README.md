@@ -91,7 +91,7 @@
 2. **_Slopes_** are added to the maze for players to access the higher pickups
 3. A **_separate playground_** is added to the level
    - The player can access it through the yellow slope in the middle of the scene
-4. An **_How to Play_** is added to the top left of the screen
+4. A **_How to Play_** is added to the top left of the screen
 5. Some pickups are now placed higher
    - This change was made for players to experience the jumping capabilities
    - The players can only access these pickups by jumping
