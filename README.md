@@ -66,7 +66,7 @@
    ```
    lostTextObject.SetActive(false);
    ```
-   ### `line 63` to `line 77` in `PlayerController.cs` in `Start()`
+   ### `line 63` to `line 77` in `PlayerController.cs` in `Update()`
    ```
    if (rb.velocity.y < -20 && count < 40)
    {
